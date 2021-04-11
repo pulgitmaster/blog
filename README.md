@@ -39,4 +39,4 @@ You can use it with the Jekyll ["remote_theme"](https://github.com/benbalter/jek
 
 Instructions and full documentation: [http://drassil.github.io/git-wiki](http://drassil.github.io/git-wiki)
 
-
+## [redirect](https://pulgitmaster.github.io/blog/)
